@@ -531,6 +531,7 @@ AddEmote("Falling Apart", 138768535525292)
 AddEmote("Mime", 121558490761409)
 AddEmote("Floor Rock Freeze - Tommy Hilfiger", 10214411646)
 AddEmote("Jester", 124057206061364)
+AddEmote("Fright Funk", 97445000437360)
 
 --finished loading
 Loading:Destroy()
