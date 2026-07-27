@@ -538,6 +538,7 @@ AddEmote("Blue Top Rock", 102222849201801)
 AddEmote("Shocked", 124594509997508)
 AddEmote("Head Pat", 80157195300523)
 AddEmote("Popular", 71302743123422)
+AddEmote("Laugh It Up", 88524886385664)
 
 --finished loading
 Loading:Destroy()
