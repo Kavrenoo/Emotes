@@ -545,6 +545,7 @@ AddEmote("Mii Height Swing", 95276923919374)
 AddEmote("Michael Myers Bounce", 102592510788385)
 AddEmote("Slow Dembow", 73236219340808)
 AddEmote("Yungblud Happier Jump", 15610015346)
+AddEmote("Big Bad Wolf", 107112614895073)
 
 --finished loading
 Loading:Destroy()
